@@ -1,4 +1,4 @@
-# ITSP-Team-43
+#Automated Room Cleaner
 The attached file in this repository named "final_code.ino" is basically a code outline which controls a robotic machine
 which aims at cleaning a room automatically.
 The code is written in simple C++ language and is programmed to be executed on a arduino board which is the basic microcontroller 
